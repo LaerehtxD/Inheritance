@@ -1,0 +1,14 @@
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\bin\Debug\net8.0\inheritanceAct.exe
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\bin\Debug\net8.0\inheritanceAct.deps.json
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\bin\Debug\net8.0\inheritanceAct.runtimeconfig.json
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\bin\Debug\net8.0\inheritanceAct.dll
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\bin\Debug\net8.0\inheritanceAct.pdb
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.AssemblyInfoInputs.cache
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.AssemblyInfo.cs
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.csproj.CoreCompileInputs.cache
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.dll
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\refint\inheritanceAct.dll
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.pdb
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\inheritanceAct.genruntimeconfig.cache
+C:\Users\itorm\OneDrive\Documents\c#\inheritanceAct\obj\Debug\net8.0\ref\inheritanceAct.dll
